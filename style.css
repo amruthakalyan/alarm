@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+    color: rgb(20, 20, 20);
+    font-weight: 25px;
+}
+#alarmNew,#alarmstop{
+    padding: 12px;
+    font-weight: 600;
+}
